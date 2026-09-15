@@ -1,12 +1,16 @@
-# Hospital Patient Registration Portal
+# 🏥 Hospital Patient Registration Portal
 
-A simple Hospital Patient Registration Portal developed using HTML5.
+A simple **Hospital Patient Registration Portal** developed using **HTML5**.
 
-## Project Description
+---
+
+## 📌 Project Description
 
 This project is a web-based patient registration form created to practice and demonstrate important HTML concepts.
 
-## Features
+---
+
+## ✨ Features
 
 - Personal Information Form
 - Contact Information
@@ -18,11 +22,15 @@ This project is a web-based patient registration form created to practice and de
 - Form Validation
 - Patient Registration and Reset Buttons
 
-## Technologies Used
+---
+
+## 🛠️ Technologies Used
 
 - HTML5
 
-## HTML Concepts Covered
+---
+
+## 📚 HTML Concepts Covered
 
 - HTML Document Structure
 - Semantic HTML
@@ -39,29 +47,43 @@ This project is a web-based patient registration form created to practice and de
 - Form Validation
 - Header, Main, Section and Footer
 
-## Project Structure
+---
 
+## 📂 Project Structure
+
+```text
 Hospital-Patient-Registration-Portal/
 │
 ├── index.html
 ├── README.md
 └── screenshots/
     └── hospital-patient-registration.png
+```
 
-## Project Screenshot
+---
+
+## 📸 Project Screenshot
 
 ![Hospital Patient Registration Portal](screenshots/hospital-patient-registration.png)
 
-## How to Run
+---
+
+## ▶️ How to Run
 
 1. Download or clone this repository.
 2. Open the project folder.
 3. Open `index.html` in any web browser.
 
-## Purpose
+No backend server or database is required.
+
+---
+
+## 🎯 Purpose
 
 This project was developed as part of Java Full Stack internship training to strengthen HTML fundamentals and practical web development skills.
 
-## Author
+---
 
-Yogendra Kumar
+## 👨‍💻 Author
+
+**Yogendra Kumar**
